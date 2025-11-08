@@ -1,0 +1,12 @@
+{
+    "blocks": [1, 1],
+    "stairs": [6, 4],
+    "slabs": [3, 6],
+    "fences": [10, 6],
+    "gates": [4, 1],
+    "doors": [6, 3],
+    "trapdoors": [6, 2],
+    "plates": [2, 1],
+    "buttons": [1, 1],
+    "walls": [6, 6]
+}
